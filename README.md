@@ -1,6 +1,10 @@
 # TeamLarkw2: Credit Card Design Library
 ![CC GEN](https://github.com/zuri-training/TeamLarkw2_cc_gen/blob/main/Frontend/static/images/logo.png)
 
+##My Contribution 
+This was the final team project of the Zuri Trainging course. It was a commulative of the four -month long remote course. The project topcs were randomly assigned. Each team had designers, frontend and backend developers. 
+I was on the frontend team and worked on the header, footer and the About Us page. 
+This was my first team project and then one which made me realize how much I love working in a team and collaborating!
 ### Hosting Heroku
 [Hosting Link](https://teamlarkw2.herokuapp.com/)
 
@@ -28,7 +32,6 @@ cc_gen
 A website that gives potential customers access to choose from a variety of samples of credit card codes designs.
 
 The scope of this project is to create a platform that has a library of credit card designs. This system is based on a relational database with the library and user functions. We hope to provide a comfortable user experience.
-
 
 
 ## Project Initialized
